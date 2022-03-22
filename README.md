@@ -10,7 +10,7 @@ Learning to investigate the Holberton way has been incredible. As well as solvin
 
 Making an impact on a high-performance team is earning their respect through the knowledge that one can capture and transmit to the team. Demonstrating that you can count on our knowledge to solve obstacles presented by the team. Also facilitating a pleasant work environment. If you forget that you should enjoy each day as if it were the first
 
-
+If you are interested in see my porfolio website <a name = "Personal Website"> https://jesgogu27.github.io/</a>
 
 
 <!--
