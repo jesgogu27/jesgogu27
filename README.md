@@ -1,7 +1,5 @@
 # Jesus Maria Gonzalez Guardo
 
-***
-
 ### About me 👋
 
 I am currently learning React by introducing JSX, rendering elements, Props, and components. This is to be able to optimize my front-end code. Being able to show my work done in the backend with Java - Python, and JavaScript
