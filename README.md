@@ -1,5 +1,11 @@
 # Jesus Maria Gonzalez Guardo
-### Hi there 👋
+
+### About me 👋
+
+***
+I like to solve problems with programming logic and be in constant learning to be able to innovate in product development.
+
+
 
 <!--
 **jesgogu27/jesgogu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
