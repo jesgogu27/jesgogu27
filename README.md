@@ -1,7 +1,7 @@
 # Jesus Maria Gonzalez Guardo
-##Full Stack Software Developer
+## Full Stack Software Developer
 
-** 
+
 
 
 ### About me 👋
