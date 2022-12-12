@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="cuerpo">
+
+    <p>Cambiaremos a dark mode cuando presionemos </p>
+
+    <button type="button" onclick = "DarkMode()"> Dark Mode</button>
+    <button type="button" onclick =  "LigthMode()"> Ligth Mode</button>
+
+
+    <script>
+        function DarkMode(){
+            document.getElementById('cuerpo').style.background = "black";
+            document.getElementById('cuerpo').style.color="white";
+        }
+
+        function LigthMode()
+        {
+            document.getElementById('cuerpo').style.color = "black";
+            document.getElementById('cuerpo').style.background = "white";
+        }
+
+    </script>
+</body>
+</html>

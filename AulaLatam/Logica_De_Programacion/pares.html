@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pares</title>
+</head>
+<body>
+    <h1>Imprime los numeros pares del 1 al 100</h1>
+    <script>
+        
+        //permite imprimir saltos de lineas
+        function saltarLinea(){
+            var saltoLinea = "<br>";
+
+            document.write(saltoLinea);
+        }
+
+        //Funcion que imprime los resultados
+        function imprimir(numero){
+            
+            
+            document.write(numero);
+
+        }
+
+        //Funcion que halla el numero par 
+        function par(){
+            var numero = 1;
+
+            while(numero <= 100){
+                if ( numero % 2 == 0){
+                    imprimir(numero);
+                    saltarLinea();
+                }
+                numero++;
+            }
+            document.write("Fin");
+
+        }
+
+        //invoco la funcion par
+        par();
+        
+    </script>
+    
+</body>
+</html>

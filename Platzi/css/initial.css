@@ -1,0 +1,20 @@
+.initial{
+    margin: 2em auto 3em auto;
+}
+
+.container{
+    display: flexbox;
+    justify-content: center;
+    
+    background-color: palegoldenrod;
+}
+
+.card1{
+    display: block;
+    background-color: aqua;
+}   
+
+.parrilla{
+    display: grid;
+
+}

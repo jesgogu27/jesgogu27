@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        function saltarLinea(){
+            var saltoLinea = "<br><br><br>";
+            
+            document.write(saltoLinea);
+
+        }
+
+        function imprimir(diferencia){
+            
+            document.write("Nuestra diferencia de edad es " + diferencia);
+            saltarLinea();
+
+            document.write("que te parecio!?");
+        }
+
+        function diferencia(edad1, edad2){
+            var diferencia = 0;
+            
+            diferencia = edad1 - edad2;
+
+            imprimir(diferencia);            
+            
+        }
+
+        var edad1 = 38;
+        var edad2 = 12;
+
+        diferencia(edad1, edad2);
+
+    </script>
+    
+</body>
+</html>

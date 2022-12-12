@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adivina Número</title>
+</head>
+<body>
+    <h1>Adivina Número</h1>
+
+    <script>
+        function saltarLinea(){
+            var saltoLinea = "<br><br>"
+
+            document.write(saltoLinea);
+        }
+
+
+        function imprimir(resultado){
+
+            document.write(resultado);
+        }
+
+        function aleatorio(num){
+            var numero = 0;
+            var numero_oculto = 0;
+            var 
+
+
+            numero_oculto = Math.round(Math.random()*10);
+            console.log(numero_oculto);
+
+            imprimir(numero_oculto);    
+            
+            if (num == numero_oculto){
+                alert("excelente");
+            } else {
+                alert("fallaste");
+
+            }
+        }
+
+        var num = 0;
+
+        num = parseInt(prompt("Ingrese Numero: "));
+
+        aleatorio(num);
+
+
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculo Puntos Equipo Fútbol</title>
+</head>
+<body>
+    <script>
+        
+        function saltarLinea(){
+            var saltoLinea = "<br><br><br>"
+            document.write(saltoLinea);
+        }
+
+        function imprimir(frase){
+            document.write(frase);
+            saltarLinea();
+        }
+
+        function puntos(victorias,  empates){
+
+            var resultado;
+            resultado =  (victorias *3) + parseInt(empates);
+            imprimir("Su equipo ha logrado " + resultado + " Puntos");
+            return resultado;
+        }
+
+        var victorias;
+        var empates;
+        
+        victorias = prompt("Ingrese Número de Victorias: ");
+        empates = prompt("Ingrese Cantidade de Empates: ");
+        var x;
+        x = puntos(victorias, empates);
+
+    if (x > 20)
+        {    
+            imprimir("El equipo esta mejor que el año pasado");
+        }
+
+        if (x < 20)
+        {    
+            imprimir("El equipo esta peor que el año pasado");
+        }
+        if (x == 20)
+        {    
+            imprimir("El equipo esta igual que el año pasado");
+        }
+
+
+    </script>
+    
+</body>
+</html>
