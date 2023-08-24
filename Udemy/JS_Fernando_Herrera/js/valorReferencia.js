@@ -13,3 +13,11 @@ let peter = { nombre: 'Peter' }
 let tony = cambiaNombre( peter );
 
 console.log({ peter, tony });
+
+const frutas = [ 'Manzana', 'Pera', 'Piña' ];
+
+const otrasFrutas = [...frutas];
+
+otrasFrutas.push( 'Mango' );
+
+console.table({ frutas, otrasFrutas });
