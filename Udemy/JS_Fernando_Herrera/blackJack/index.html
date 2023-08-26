@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Jack</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../blackJack/assets/css/styles.css">
+</head>
+<body>
+    <header class = "titulo">
+        <h1>Black Jack</h1>
+    </header>
+    
+    <main>
+        <article >
+            <div class = "row mt-2">
+                <div class = "col text-center">
+
+                    <button class = "btn btn-danger">Pedir Carta</button>
+                    <button class = "btn btn-secondary">Nuevo Juego</button>
+                    <button class = "btn btn-primary">Detener</button>
+                </div>
+            </div>
+        </article>
+        <article class = "espacio">
+            <div class = "row container">
+                <div class = "col">
+
+                    <h2 > Jugador 1 - <small> 0 </small></h2>
+                    <div id = "jugador-cartas">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class = "espacio">
+            <div class = "row container">
+                <div class = "col">
+
+                    <h2 class = "espacio"> Computadora - <small> 0 </small></h2>
+                    <div  id = "computadora-cartas" >
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                        <img class = "carta" alt="Carta 10 de diamantes" src="assets/cartas/10D.png">
+                    </div>
+                </div>
+            </div>
+        </article>
+    </main>
+    <script src="../blackJack/assets/js/underScore.js"></script>
+
+    <script src="../blackJack/assets/js/juegos.js"></script>
+</body>
+</html>
