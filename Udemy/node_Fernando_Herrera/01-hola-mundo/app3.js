@@ -8,7 +8,7 @@ setTimeout( ()=> {
 
 setTimeout( () => {
     console.log( 'Segundo TimeOut' )
-}, 0 );
+}, 1000 );
 
 
 setTimeout( ()=> {
