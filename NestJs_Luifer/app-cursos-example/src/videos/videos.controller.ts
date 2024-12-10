@@ -23,6 +23,7 @@ export class VideosController {
 
   @Post()
   create(@Body() createVideoDto: CreateVideoDto) {
+    console.log(createVideoDto);
     return this.videosService.create(createVideoDto);
   }
 

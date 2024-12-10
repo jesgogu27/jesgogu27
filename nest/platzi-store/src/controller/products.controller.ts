@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import { Controller, Get, Query, Param, Post, Body, Put, Delete } from '@nestjs/common';
 
-@Controller('products')
+@Controller()
 export class ProductsController {
 
   @Get()
@@ -13,16 +13,16 @@ export class ProductsController {
 
   @Get()
   getProductFilter(
-    @Query('limit') limit: number = 100,
+    @Query('limit') limit: number = 100, //limitando el limete  a 100
     @Query('offset') offset: number = 50,
     @Query('brand') brand: string = 'N/A',)
     {
     return ` Filtro de producto limite ${limit} de ${offset} de la marca ${brand}`;
     }
 
-  @Get()
-  getProductsQuery(@Query() param : any){
-    const {limit, offset} = param;
+  @Get('products')
+  getProductsQuery(@Query('limit') limit: number, @Query('offset') offset: number){
+   // const {limit, offset} = param;
     return `Productos: limite=> ${limit}  offset=> ${offset}`;
   }
 
