@@ -1,0 +1,7 @@
+node_modules/@nestjs/common/cache/index.d.ts
+/node_modules
+
+.DS_Store
+node_modules
+/node_modules
+/dist

@@ -1,0 +1,17 @@
+#Editor configuration
+root =  true; #indica que este archivo es la raiz de la configuración y se aplicara a todo el proyecto
+
+[*] #indica que la configuración aqui señalada se aplica a todos los archivos sin importar extension
+charset = utf-8 #juego de caracteres a usar, generalmente utf8
+indent_style = space #indica el estilo de identacion. Preferible con espacios en lugar de tabulaciones.
+indent_size = 2 #indica el estilo de identación. Preferible con espacios en lugar de tabs
+insert_final_newline = true #inserta una nueva linea al final de cada archivo
+trim_trailing_whitespace = true #indica que se debe elimniar los espacios en blanco al final de cada linea.
+
+[*.ts] #indica que esta configuración se aplicara a los archivos typeScript
+quote_type = single #indica una sola comilla '' para los string
+
+[*.md] #indica que esta configuración se aplica a los archivos MarkDown
+max_line_length = off #desactiva la limitacion de longitud de los archivos markdown
+trim_trailing_whitespace = false #Evita eliminar las lineas en blanco en cada linea de archivos markdown
+
