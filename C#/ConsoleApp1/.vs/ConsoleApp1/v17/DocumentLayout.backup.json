@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0276C3AA-3120-4EB9-8AAD-D62205272AA3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0276C3AA-3120-4EB9-8AAD-D62205272AA3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0276C3AA-3120-4EB9-8AAD-D62205272AA3}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0276C3AA-3120-4EB9-8AAD-D62205272AA3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-15T16:24:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:24:01.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿@model CrudNet8MVC.Models.Contacto
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white"><strong>Crear Usuario</strong></h3>
+            </div>
+
+            <ul class="list-group">
+                <li class="list-group-item"><strong>Nombre: </strong> @Html.DisplayFor(m => m.Name)</li>
+                <li class="list-group-item"><strong>Telefono: </strong> @Html.DisplayFor(m => m.phone)</li>
+                <li class="list-group-item"><strong>Celular: </strong> @Html.DisplayFor(m => m.celular)</li>
+                <li class="list-group-item"><strong>Email: </strong> @Html.DisplayFor(m => m.email)</li>
+                <li class="list-group-item"><strong>Fecha Creacion: </strong> @Html.DisplayFor(m => m.FechaCreacion)</li>
+
+
+            </ul>
+
+                <a asp-action="Index" asp-controller="Inicio">Volver</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

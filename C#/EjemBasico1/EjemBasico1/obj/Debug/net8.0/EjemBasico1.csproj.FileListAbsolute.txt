@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\bin\Debug\net8.0\EjemBasico1.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\bin\Debug\net8.0\EjemBasico1.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\bin\Debug\net8.0\EjemBasico1.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\bin\Debug\net8.0\EjemBasico1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\bin\Debug\net8.0\EjemBasico1.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\refint\EjemBasico1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\EjemBasico1.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjemBasico1\EjemBasico1\obj\Debug\net8.0\ref\EjemBasico1.dll

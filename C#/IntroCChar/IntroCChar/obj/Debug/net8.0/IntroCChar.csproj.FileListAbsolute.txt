@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\bin\Debug\net8.0\IntroCChar.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\bin\Debug\net8.0\IntroCChar.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\bin\Debug\net8.0\IntroCChar.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\bin\Debug\net8.0\IntroCChar.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\bin\Debug\net8.0\IntroCChar.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\refint\IntroCChar.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\IntroCChar.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\IntroCChar\IntroCChar\obj\Debug\net8.0\ref\IntroCChar.dll

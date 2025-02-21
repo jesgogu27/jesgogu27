@@ -1,0 +1,7 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\bin\Debug\ConvertidorDeMetrosMillas.exe.config
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\bin\Debug\ConvertidorDeMetrosMillas.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\bin\Debug\ConvertidorDeMetrosMillas.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\obj\Debug\ConvertidorDeMetrosMillas.csproj.AssemblyReference.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\obj\Debug\ConvertidorDeMetrosMillas.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\obj\Debug\ConvertidorDeMetrosMillas.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ConvertidorDeMetrosMillas\ConvertidorDeMetrosMillas\obj\Debug\ConvertidorDeMetrosMillas.pdb

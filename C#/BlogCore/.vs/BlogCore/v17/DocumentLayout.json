@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35EDADB-F9E4-49E9-B61A-0794A6D99911}|Blogcore.AccesoDatos\\Blogcore.AccesoDatos.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore.accesodatos\\migrations\\20250210224135_creacionmodelocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35EDADB-F9E4-49E9-B61A-0794A6D99911}|Blogcore.AccesoDatos\\Blogcore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\migrations\\20250210224135_creacionmodelocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35EDADB-F9E4-49E9-B61A-0794A6D99911}|Blogcore.AccesoDatos\\Blogcore.AccesoDatos.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35EDADB-F9E4-49E9-B61A-0794A6D99911}|Blogcore.AccesoDatos\\Blogcore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427256C6-4847-4A93-ADB1-3ADD9ED9B785}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427256C6-4847-4A93-ADB1-3ADD9ED9B785}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\blogcore\\blogcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE5BB789-C81C-43E0-8090-9CAF636A91BF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250210224135_CreacionModeloCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\Blogcore.AccesoDatos\\Migrations\\20250210224135_CreacionModeloCategoria.cs",
+              "RelativeDocumentMoniker": "Blogcore.AccesoDatos\\Migrations\\20250210224135_CreacionModeloCategoria.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\Blogcore.AccesoDatos\\Migrations\\20250210224135_CreacionModeloCategoria.cs",
+              "RelativeToolTip": "Blogcore.AccesoDatos\\Migrations\\20250210224135_CreacionModeloCategoria.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:41:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\Blogcore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Blogcore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\Blogcore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Blogcore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:39:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore.Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "BlogCore.Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore.Models\\Categoria.cs",
+              "RelativeToolTip": "BlogCore.Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:30:55.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:04:37.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\appsettings.json",
+              "RelativeToolTip": "BlogCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T21:53:55.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T21:27:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T15:52:45.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap5.min.css",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeToolTip": "BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ViewState": "AgIAAOQzAAAAAAAAAAAswPUzAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-10T15:51:44.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

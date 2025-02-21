@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\bin\Debug\net8.0\PooDemo1.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\bin\Debug\net8.0\PooDemo1.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\bin\Debug\net8.0\PooDemo1.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\bin\Debug\net8.0\PooDemo1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\bin\Debug\net8.0\PooDemo1.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\refint\PooDemo1.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\PooDemo1.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\PooDemo1\PooDemo1\obj\Debug\net8.0\ref\PooDemo1.dll

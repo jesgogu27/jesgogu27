@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\IntroCChar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C660BFA-0EDF-4DBF-B7D1-A214F9F6CD96}|IntroCChar\\IntroCChar.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\introcchar\\introcchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C660BFA-0EDF-4DBF-B7D1-A214F9F6CD96}|IntroCChar\\IntroCChar.csproj|solutionrelative:introcchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\IntroCChar\\IntroCChar\\Program.cs",
+              "RelativeDocumentMoniker": "IntroCChar\\Program.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\IntroCChar\\IntroCChar\\Program.cs",
+              "RelativeToolTip": "IntroCChar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:40:46.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

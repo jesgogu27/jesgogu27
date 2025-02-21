@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConvertidorDeMetrosMillas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD11A93-28BC-4FC5-89B6-308663E9C266}|ConvertidorDeMetrosMillas\\ConvertidorDeMetrosMillas.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\convertidordemetrosmillas\\convertidordemetrosmillas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD11A93-28BC-4FC5-89B6-308663E9C266}|ConvertidorDeMetrosMillas\\ConvertidorDeMetrosMillas.csproj|solutionrelative:convertidordemetrosmillas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConvertidorDeMetrosMillas\\ConvertidorDeMetrosMillas\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertidorDeMetrosMillas\\Program.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\ConvertidorDeMetrosMillas\\ConvertidorDeMetrosMillas\\Program.cs",
+              "RelativeToolTip": "ConvertidorDeMetrosMillas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:37:45.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
