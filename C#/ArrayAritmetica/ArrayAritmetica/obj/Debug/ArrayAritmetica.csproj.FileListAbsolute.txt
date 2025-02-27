@@ -1,0 +1,7 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\bin\Debug\ArrayAritmetica.exe.config
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\bin\Debug\ArrayAritmetica.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\bin\Debug\ArrayAritmetica.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\obj\Debug\ArrayAritmetica.csproj.AssemblyReference.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\obj\Debug\ArrayAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\obj\Debug\ArrayAritmetica.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ArrayAritmetica\ArrayAritmetica\obj\Debug\ArrayAritmetica.pdb

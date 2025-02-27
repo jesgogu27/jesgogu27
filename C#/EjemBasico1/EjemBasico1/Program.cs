@@ -1,4 +1,7 @@
 ﻿
+using System;
+using System.Timers;
+
 Console.WriteLine((20 + 5) % 6);
 Console.WriteLine(15 + (-5) * 6 / 10);
 
@@ -44,7 +47,7 @@ if( numero4 >= numero3)
 
 /**
  * Numero mayor entre tres numeros ingresaods por el usuario
- */
+
 
 int numero1, numero2, numero3;
 
@@ -78,5 +81,136 @@ else
     }
 }
 
+ */
 
-    
+/**
+ * Pide el nombre de la semana y lo devuelve. 
+ * En caso de dato errado lo informa
+
+
+Console.WriteLine("Ingrese el numero de la semana que desea: ");
+int numeroSemana = Convert.ToInt32(Console.ReadLine());
+
+switch(numeroSemana)
+{
+    case 1:
+        Console.WriteLine("lunes");
+        break;
+    case 2:
+        Console.WriteLine("Martes");
+        break;
+    case 3:
+        Console.WriteLine("Miercoles");
+        break;
+    case 4:
+        Console.WriteLine("Jueves");
+        break;
+    case 5:
+        Console.WriteLine("Viernes");
+        break;
+    case 6:
+        Console.WriteLine("Sabado");
+        break;
+    case 7:
+        Console.WriteLine("Domingo");
+        break;
+    default:
+        Console.WriteLine("Dia no existe");
+        break;
+}
+ */
+
+/**
+ * El operador Ternario
+ */
+
+//Console.WriteLine("Ingrese Numero: ");
+
+
+/**
+ * bucle while
+
+Console.WriteLine("Ingrese Numerador: ");
+int numerador =  Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Ingrese Divisor: ");
+int divisor = Convert.ToInt32(Console.ReadLine());
+
+while (divisor == 0 )
+{
+    Console.WriteLine("Ingrese Divisor: ");
+    divisor = Convert.ToInt32(Console.ReadLine());
+
+}
+
+Console.WriteLine($"la division es  { numerador /  divisor }");
+
+
+
+Console.WriteLine("Ingrese Contraseña: ");
+int contrasena = Convert.ToInt32(Console.ReadLine());
+
+while (contrasena != 1234)
+{
+    Console.WriteLine("Error de contraseña,por favor vuelva a ingresarla ");
+    contrasena = Convert.ToInt32(Console.ReadLine());
+}
+
+Console.WriteLine($"Bienvenido");
+ */
+
+/**
+ *do while
+
+int contrasena;
+do
+{
+
+    Console.WriteLine("Ingrese Contraseña: ");
+     contrasena = Convert.ToInt32(Console.ReadLine());
+        
+}
+while (contrasena != 1234);
+Console.WriteLine("Bienvenido");
+*/
+
+/**
+ * bucle for
+ 
+
+for (int i = 1; i < 21; i++)
+    Console.WriteLine(i);
+
+for (int i = 2; i <18;  i= i +2)
+    Console.WriteLine($"*{i}");
+
+for (int i = 15; i > 4; i = i-2)
+    Console.WriteLine(i);
+
+*/
+
+/**
+try
+{
+    Console.WriteLine("Ingrese numerador: ");
+    int numerador1 = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Ingrese Numerador: ");
+    int denominador1 = Convert.ToInt32(Console.ReadLine());
+
+} catch (FormatException e)
+{
+    Console.WriteLine("El número ingresado no es valido" + e.Message);
+}
+catch (DivideByZeroException e)
+{
+    Console.WriteLine("Error división  por cero" + e.Message);
+}
+Console.WriteLine("el programa continua");
+*/
+
+/**
+ * optimizando memoria
+ */
+
+yearOld, age, countryPeople
+Console.WriteLine();

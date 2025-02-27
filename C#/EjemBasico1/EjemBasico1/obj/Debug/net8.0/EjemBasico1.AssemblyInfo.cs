@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjemBasico1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6beab49341ee638ac5711ed00a52a2b3727780bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ef3f6501c037efa8152eafa354a0070dcbe39ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjemBasico1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjemBasico1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
