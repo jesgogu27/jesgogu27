@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Text;
+
 Console.WriteLine("Hello, World!");
 
 var auto = new TiposVehiculos();
@@ -28,6 +30,8 @@ vehiculosEmpresa1.Add(campero);
 empresa1.tiposVehiculos = vehiculosEmpresa1;
 
 Console.WriteLine(empresa1.tiposVehiculos.Count);
+Console.WriteLine( empresa1.UserTiposVehiculos());
+
 
 class EmpresaTransporte
 {
@@ -37,6 +41,16 @@ class EmpresaTransporte
     public ClaseVehiculo clase;
     public List<TiposVehiculos> tiposVehiculos;
 
+
+    public string UserTiposVehiculos()
+    {
+        StringBuilder sb = new StringBuilder();
+        foreach (var item in tiposVehiculos)
+        {
+            sb.AppendLine($"la empresa {name} tiene el vehiculo {item.capacidadCarga}");
+        }
+        return sb.ToString();
+    }
 }
 
 enum ClaseVehiculo
