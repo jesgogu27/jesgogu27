@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\tipovehiculos\\tipovehiculos\\models\\empresatransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|solutionrelative:tipovehiculos\\models\\empresatransporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\tipovehiculos\\tipovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|solutionrelative:tipovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|c:\\users\\jesgo\\onedrive\\documentos\\jesgogu27\\c#\\tipovehiculos\\tipovehiculos\\models\\tiposvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB382A-53B1-4B3E-9977-DF6C30E59078}|TipoVehiculos\\TipoVehiculos.csproj|solutionrelative:tipovehiculos\\models\\tiposvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiposVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Models\\TiposVehiculos.cs",
+              "RelativeDocumentMoniker": "TipoVehiculos\\Models\\TiposVehiculos.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Models\\TiposVehiculos.cs",
+              "RelativeToolTip": "TipoVehiculos\\Models\\TiposVehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:16:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmpresaTransporte.cs",
+              "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Models\\EmpresaTransporte.cs",
+              "RelativeDocumentMoniker": "TipoVehiculos\\Models\\EmpresaTransporte.cs",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Models\\EmpresaTransporte.cs*",
+              "RelativeToolTip": "TipoVehiculos\\Models\\EmpresaTransporte.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:12:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Program.cs",
               "RelativeDocumentMoniker": "TipoVehiculos\\Program.cs",
-              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Program.cs*",
-              "RelativeToolTip": "TipoVehiculos\\Program.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jesgo\\OneDrive\\Documentos\\jesgogu27\\C#\\TipoVehiculos\\TipoVehiculos\\Program.cs",
+              "RelativeToolTip": "TipoVehiculos\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T14:04:46.397Z",
               "EditorCaption": ""
