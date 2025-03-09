@@ -1,17 +1,35 @@
 ﻿
 using System.Text;
+using System.Timers;
+using TipoVehiculos.Interfaces;
 
 
 namespace TipoVehiculos.Models
 {
-    internal class EmpresaTransporte
+    internal class EmpresaTransporte: Pagar, IVehiculos
     {
-        public int Id;
-        public string name;
-        public string tipoServicios;
+        private string _Nombre;
+        public int Id { get; set; }
+        public string name { get; set; }
+        public string tipoServicios { get; set; }
         public ClaseVehiculo clase;
         public List<TiposVehiculos> tiposVehiculos;
 
+        public override string Nombre {
+            get
+            {
+                return _Nombre;
+            }
+            set
+            {
+                _Nombre = value.Trim();
+            }
+        }
+
+        public override string PagarServicio()
+        {
+            return $"El servicio de {name} ha sido pagado por el cliente";
+        }
 
         public string UserTiposVehiculos()
         {
