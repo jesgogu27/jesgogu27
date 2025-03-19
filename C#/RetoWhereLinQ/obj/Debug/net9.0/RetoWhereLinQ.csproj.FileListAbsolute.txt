@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\bin\Debug\net9.0\RetoWhereLinQ.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\bin\Debug\net9.0\RetoWhereLinQ.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\bin\Debug\net9.0\RetoWhereLinQ.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\bin\Debug\net9.0\RetoWhereLinQ.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\bin\Debug\net9.0\RetoWhereLinQ.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\refint\RetoWhereLinQ.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\RetoWhereLinQ.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\RetoWhereLinQ\obj\Debug\net9.0\ref\RetoWhereLinQ.dll
