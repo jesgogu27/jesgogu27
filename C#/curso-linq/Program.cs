@@ -8,8 +8,13 @@ LinqQueries queries = new LinqQueries();
 //ImprimirValores(queries.TodaLaColeccion());
 
 //ImprimirValores(queries.FechaPublicacion());
-ImprimirValores(queries.PagindasYPalabras());
+//ImprimirValores(queries.PagindasYPalabras());
 
+//Console.WriteLine(queries.Estado());
+//Console.WriteLine(queries.FuePublicado());
+//ImprimirValores(queries.OperadorContainer());
+//ImprimirValores(queries.OrdenarPor());
+ImprimirValores(queries.OrdenarDescendente());
 
 void ImprimirValores(IEnumerable<Book> listaDeLibros){
     Console.WriteLine("{0, -60} {1, 15} {2, 15}\n", "Titulo", "N. Paginas", "Fecha Publicacion" );

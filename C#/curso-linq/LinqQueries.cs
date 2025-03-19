@@ -16,7 +16,6 @@ namespace curso_linq
             }
             
         }
-
         public IEnumerable<Book> TodaLaColeccion() {
             return librosCollection;
         }
@@ -35,6 +34,26 @@ namespace curso_linq
 
             //Query Expresion
             return from l in librosCollection where l.PageCount >250 && l.Title.Contains("in Action") select l;
+        }
+
+        public bool Estado(){
+            return librosCollection.All(x=> x.Status != null || x.Status != string.Empty);
+        }
+
+        public bool FuePublicado(){
+            return librosCollection.Any(x => x.Status.Contains("PUBLISH") && x.PublishedDate.Year > 2025);
+        }
+
+        public IEnumerable<Book> OperadorContainer() {
+            return librosCollection.Where(x => x.Categories.Contains("Python"));
+        }
+
+        public IEnumerable<Book> OrdenarPor(){
+            return librosCollection.Where(x =>  x.Categories.Contains("Java")).OrderBy(x => x.Title);
+        }
+
+        public IEnumerable<Book> OrdenarDescendente(){
+            return librosCollection.Where(x => x.PageCount > 450).OrderByDescending(x => x.PageCount);
         }
     }
 }
