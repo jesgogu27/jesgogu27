@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace curso_linq
@@ -54,6 +55,61 @@ namespace curso_linq
 
         public IEnumerable<Book> OrdenarDescendente(){
             return librosCollection.Where(x => x.PageCount > 450).OrderByDescending(x => x.PageCount);
+        }
+
+        public IEnumerable<Book> OrdenarPorTake(){
+            return librosCollection.Where(x =>  x.Categories.Contains("Java")).OrderBy(x => x.PublishedDate.Year).Take(3);
+        }
+
+        public IEnumerable<Book> Seleccionar(){
+            return librosCollection.Where(x =>  x.PageCount > 400).Take(4).Skip(2);
+        }
+
+        public IEnumerable<Book> TresPrimerosDatos(){
+            return  librosCollection.Take(3)
+            .Select(p => new Book() {Title = p.Title, PageCount = p.PageCount });
+        }
+
+        public int NumeroLibros(){
+            return librosCollection.Count((x => x.PageCount > 200 && x.PageCount < 500));
+        }
+
+        public DateTime FechaPublicado(){
+            return librosCollection.Min(x => x.PublishedDate);
+        }
+
+        
+        public int NumeroPaginas(){
+            return librosCollection.Max(x => x.PageCount);
+        }
+
+        public Book LibroMenorCantPag(){
+            return librosCollection.Where(x => x.PageCount > 0).MinBy(x => x.PageCount);
+        }
+    
+
+        public Book LibroReciente(){
+            return librosCollection.MaxBy(x => x.PublishedDate);
+        }
+
+        public int SumaDePaginasEntre0Y500(){
+            return librosCollection.Where(x => x.PageCount >= 0 && x.PageCount <=500).Sum(p => p.PageCount);
+        }
+
+        public string librosFechaPosterior(){
+            return librosCollection.Where(p => p.PublishedDate.Year > 2015).Aggregate("", (TitulosLibros, next) =>
+                                                                            {
+                                                                                if(TitulosLibros != string.Empty){
+                                                                                    TitulosLibros += "-" + next.Title;
+                                                                                } else {
+                                                                                    TitulosLibros += next.Title;
+                                                                                }
+                                                                                return TitulosLibros;
+                                                                            });
+        }
+
+        public double PromedioPaginas(){
+            return librosCollection.Where(x => x.PageCount >0).Average(x => x.PageCount);
         }
     }
 }
