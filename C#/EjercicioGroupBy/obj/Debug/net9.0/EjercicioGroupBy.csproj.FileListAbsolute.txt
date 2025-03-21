@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\bin\Debug\net9.0\EjercicioGroupBy.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\bin\Debug\net9.0\EjercicioGroupBy.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\bin\Debug\net9.0\EjercicioGroupBy.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\bin\Debug\net9.0\EjercicioGroupBy.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\bin\Debug\net9.0\EjercicioGroupBy.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\refint\EjercicioGroupBy.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\EjercicioGroupBy.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\EjercicioGroupBy\obj\Debug\net9.0\ref\EjercicioGroupBy.dll
