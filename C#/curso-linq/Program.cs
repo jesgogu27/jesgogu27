@@ -27,6 +27,7 @@ Console.WriteLine($"Suma de paginas entre cero y 500: {queries.SumaDePaginasEntr
 Console.WriteLine(queries.librosFechaPosterior());
 Console.WriteLine(queries.PromedioPaginas());
 
+ImprimirPorgrupos(queries.AgrupadosPorYears());
 
 
 
@@ -36,3 +37,15 @@ void ImprimirValores(IEnumerable<Book> listaDeLibros){
         Console.WriteLine("{0, -60} {1, 15} {2, 15}", item.Title, item.PageCount, item.PublishedDate.ToShortDateString());
     }
 }
+    void ImprimirPorgrupos(IEnumerable<IGrouping<int, Book>> ListaLibros) {
+    Console.WriteLine("{0, -60} {1, 15} {2, 15}\n", "Titulo", "N. Paginas", "Fecha Publicacion" );
+    foreach( var grupo in ListaLibros) {
+        Console.WriteLine("");
+        Console.WriteLine($"Grupo: {grupo.Key}");
+        Console.WriteLine("{0, -60} {1, 15} {2,15} \n", "Titulo", "N.Paginas", "Fecha Publicacion");
+    foreach(var item in grupo){
+        Console.WriteLine("{0, -60} {1, 15} {2, 15}", item.Title, item.PageCount, item.PublishedDate.ToShortDateString());
+    }
+    }
+    }
+

@@ -111,5 +111,10 @@ namespace curso_linq
         public double PromedioPaginas(){
             return librosCollection.Where(x => x.PageCount >0).Average(x => x.PageCount);
         }
+
+        //Agrupamiento de datos
+        public IEnumerable<IGrouping<int, Book>> AgrupadosPorYears(){
+            return librosCollection.Where( x => x.PublishedDate.Year >2000 ).GroupBy( x => x.PublishedDate.Year);
+        }
     }
 }
