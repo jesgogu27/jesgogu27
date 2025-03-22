@@ -1,0 +1,15 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\bin\Debug\net8.0\TipoVehiculorecords.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\bin\Debug\net8.0\TipoVehiculorecords.deps.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\bin\Debug\net8.0\TipoVehiculorecords.runtimeconfig.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\bin\Debug\net8.0\TipoVehiculorecords.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\bin\Debug\net8.0\TipoVehiculorecords.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.AssemblyInfoInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.AssemblyInfo.cs
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.sourcelink.json
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\refint\TipoVehiculorecords.dll
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\TipoVehiculorecords.genruntimeconfig.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\TipoVehiculorecords\TipoVehiculorecords\obj\Debug\net8.0\ref\TipoVehiculorecords.dll

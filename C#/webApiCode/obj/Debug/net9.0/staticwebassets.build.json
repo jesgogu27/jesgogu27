@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dsSxqhQSThQQyd1OsrbNjvFzoR16x2illgtr5NAmPls=",
+  "Source": "webApiCode",
+  "BasePath": "_content/webApiCode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

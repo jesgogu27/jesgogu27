@@ -1,0 +1,7 @@
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\bin\Debug\ClaseDeClases.exe.config
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\bin\Debug\ClaseDeClases.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\bin\Debug\ClaseDeClases.pdb
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\obj\Debug\ClaseDeClases.csproj.AssemblyReference.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\obj\Debug\ClaseDeClases.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\obj\Debug\ClaseDeClases.exe
+C:\Users\jesgo\OneDrive\Documentos\jesgogu27\C#\ClaseDeClases\ClaseDeClases\obj\Debug\ClaseDeClases.pdb
