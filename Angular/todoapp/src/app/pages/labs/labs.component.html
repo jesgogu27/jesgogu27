@@ -1,0 +1,83 @@
+<div class="container">
+  <h1> Hola mundo</h1>
+<h2>{{ welcome }}</h2>
+<ul>
+  <li *ngFor = "let task of tasks">
+      {{ task }}
+  </li>
+</ul>
+<hr>
+<h2> {{  'hola'.repeat(4) }}</h2>
+
+<p> la suma de 3 + 3 = {{ 3 + 3 }}</p>
+<p> Hola mi nombre es {{ name }} y tengo {{ edad }}</p>
+
+<hr>
+
+<img [src]="img" alt="En busqueda">
+<br>
+<label for="nombre"> Nombre: </label>
+<input name= "nombre" type="text" [value]="name" placeholder ="Ingrese texto">
+<br>
+<button [disabled]="disable" type="button"> Click me</button>
+<br>
+<p> person : {{ persona.name}} </p>
+<input type = "number" [value] = "persona.age" placeholder="Edad">
+<hr>
+
+<button (click)="clickHanlder()"> Click Here</button>
+<br>
+<button (dblclick)="clickHanlder()"> Click Here</button>
+<br>
+<p>(change)</p>
+<input type = "number" [value] = "persona.age" (change)="changeHandler($event)" placeholder="0">
+<p>(keyDown)</p>
+<input type = "text" [value] = "persona.name" (keydown)="keydownHanlder($event)" placeholder="texto">
+
+<p>(keyDown )</p>
+<input type = "text" [value] = "persona.name" (keydown)="keydownHanlder($event)" placeholder="texto">
+
+<p> Emplenado signals, hola mi nombre es {{ name1() }} y tengo {{ edad1() }}</p>
+
+<p>(change)</p>
+<input type = "text" [value] = "name1()" (change)="changeHandlerSignal($event)" placeholder="0">
+
+<p> Tamaño Total: {{ tasks2().length }}</p>
+<ul>
+  <li *ngFor = "let task of tasks2(); index as i">
+     {{ i }} {{ task }}
+  </li>
+</ul>
+<hr>
+
+<div *ngIf= "1 !== 1">
+  <p> My Contend </p>
+</div>
+
+<div *ngIf= "name1() === 'Jesus'">
+  <p> {{name1()}} </p>
+</div>
+
+<p>Digite su nombre</p>
+<input type = "string" [value] = "persona1().name1" (change)="changNameSignal($event)" placeholder="nombre">
+<p>Digite su edad</p>
+<input type = "number" [value] = "persona1().edad1" (change)="changAgeSignal($event)" placeholder="0">
+<div *ngIf="persona1().edad1 >= 18 else bloqueMenorEdad">
+  <p> Hola soy {{ persona1().name1 }}  y tengo {{ persona1().edad1 }}, por lo tanto soy mayor de edad</p>
+</div>
+
+<ng-template #bloqueMenorEdad>
+  <p> Hola soy {{persona1().name1 }}  y tengo {{ persona1().edad1 }} por lo tanto soy menor de edad</p>
+</ng-template>
+
+<p>Digite su nombre</p>
+<input type = "string" [value] = "persona1().name1" (change)="changNameSignal($event)" placeholder="nombre">
+<div [ngSwitch]="persona1().name1">
+  <p *ngSwitchCase="'Jesus'"> Yo Soy Jesus</p>
+  <p *ngSwitchCase="'Isaac'"> Yo Soy Isaac</p>
+  <p *ngSwitchCase="'Dilia'"> Yo Soy Dilia</p>
+  <p *ngSwitchCase="'Samara'"> Yo Soy Samara</p>
+  <p *ngSwitchDefault> Esa persona no esta en lista</p>
+
+</div>
+</div>
