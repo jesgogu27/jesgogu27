@@ -1,9 +1,0 @@
-﻿# Para archivos de LLVM (si no quieres que cuenten):
-*.ll linguist-language=Java     # Fuerza a detectarlos como Java (opcional)
-*.bc linguist-vendored          # Ignora estos archivos en las estadísticas
-
-# Prioriza los lenguajes que quieres mostrar:
-*.js linguist-detectable=true
-*.ts linguist-detectable=true
-*.java linguist-detectable=true
-*.cs linguist-detectable=true
