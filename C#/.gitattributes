@@ -1,0 +1,9 @@
+*.ll linguist-language=Java 
+*.ll linguist-vendored 
+*.bc linguist-vendored          
+
+
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.java linguist-detectable=true
+*.cs linguist-detectable=true
