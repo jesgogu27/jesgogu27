@@ -1,2 +1,2 @@
-let valor =  3 ** 4;
+let valor = 3 ** 4;
 console.log(valor);

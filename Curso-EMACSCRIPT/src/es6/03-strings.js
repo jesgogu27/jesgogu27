@@ -1,7 +1,7 @@
-let hello = 'Hello';
-let world = 'World';
+let hello = "Hello";
+let world = "World";
 
-let epicPhrase = hello +  ' ' + world;
+let epicPhrase = hello + " " + world;
 
 console.log(epicPhrase);
 
@@ -11,12 +11,11 @@ let epicPhrase2 = `${hello} ${world}`;
 
 console.log(epicPhrase2);
 
-
 //Multiline
 
-let lorem = 'esto es un string \n' + 'esto es otra linea';
+let lorem = "esto es un string \n" + "esto es otra linea";
 
 let lorem2 = `esto es un string 
 esto es otra linea`;
 
-console.log( lorem );
+console.log(lorem);
